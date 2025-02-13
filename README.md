@@ -9,6 +9,7 @@
     <link rel="canonical" href="https://harianjakarta-01.github.io/jakarta-info-viral/">
     <meta name="google-site-verification" content="SZkK9Djdf92qmr3wEfDwGRL9qscl8CXx94vL5hCLc4M" />
     <meta name="google-site-verification" content="Ab1lDjtoZ6NHW76VfEuUxypydBPwhtlZc_2-bvxvtEU" />
+    <meta name="google-site-verification" content="AtAGYJxNjueqi22gBjYnK5qKWTJgKsjI9m126RRYBGk" />
     <title>Berita Teraktual & Terupdate 2025 | Jakarta Info Viral</title>
     <style>
         body {
