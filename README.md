@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<#DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -72,7 +72,7 @@
 <body>
     <header>
         <h1>Berita Teraktual & Terupdate 2025</h1>
-        <p>Ikuti berita terbaru seputar Jakarta, DKI Jakarta, dan kejadian menarik terkini.</p>
+        Ikuti berita terbaru seputar Jakarta, DKI Jakarta, dan kejadian menarik terkini.</p>
     </header>
     <nav>
         <a href="#berita-viral">Berita Viral</a>
@@ -82,7 +82,7 @@
     <div class="container">
         <section id="berita-viral" class="article">
             <h2>Video Unik di Jakarta Jadi Trending Nasional</h2>
-            <p>Video seorang pengemudi Bajai yang membantu Wisatawan Asing Jatuh ke selokan viral di media sosial dan menuai pujian.</p>
+            Video seorang pengemudi Bajai yang membantu Wisatawan Asing Jatuh ke selokan viral di media sosial dan menuai pujian.</p>
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
         <section id="berita-medan" class="article">
